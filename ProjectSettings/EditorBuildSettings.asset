@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Animation.unity
+    guid: 8a2182a8042ad634eb4c02f40e02c372
+  - enabled: 1
+    path: Assets/Scenes/Escritorio.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Additional scenesw/Rules app1.unity
+    guid: bd78cb980a6caef4ba701b6f78be93cb
+  - enabled: 1
+    path: Assets/Scenes/Mord.unity
+    guid: 63d4fc2e00d6a4243bfeecd3989ded0a
+  - enabled: 1
+    path: Assets/Scenes/Discordia.unity
+    guid: 0205f26ef54d804468e71c46c422159d
+  - enabled: 1
+    path: Assets/Scenes/Valorancia.unity
+    guid: fb09bd9152e5f1c48be89927acdc8c4a
+  - enabled: 1
+    path: Assets/Scenes/App4Console 1.unity
+    guid: c233fe4c65f5b234c88f39e3198875c0
+  - enabled: 1
+    path: Assets/Scenes/DescargarVirus.unity
+    guid: 0ac654bc7b1eedf409dc9061e20c49a0
+  - enabled: 1
+    path: Assets/Scenes/MordNormal.unity
+    guid: 2003a42e0f564cf4880f2d6da2e7ffbe
+  - enabled: 1
+    path: Assets/Scenes/App5Console.unity
+    guid: c487c75993bc6f8438cf88586395ff6b
+  - enabled: 1
+    path: Assets/Scenes/PowerPoint.unity
+    guid: 66d4fd4568e2eb04b82278d4e548cbef
+  - enabled: 1
+    path: Assets/Scenes/App2 Console.unity
+    guid: ad7d59a0ab5df174ba151adca5778e39
+  - enabled: 1
+    path: Assets/Scenes/App1Console.unity
+    guid: 69a1cce4bb96b8746bac22b19444585a
+  - enabled: 1
+    path: Assets/Scenes/App6Console.unity
+    guid: 32b00eaec9dccec49b5cb6ad1ee431f1
+  - enabled: 1
+    path: Assets/Scenes/Lexe.unity
+    guid: 3fdf0ee6559b4c14bbe5c43a2857b5f6
+  - enabled: 1
+    path: Assets/Scenes/While Hero.unity
+    guid: f7a644335372b62478b9d438a172c809
+  - enabled: 1
+    path: Assets/Scenes/App3 Console.unity
+    guid: addd945c3689cd84fbb2de5dbe101660
+  - enabled: 1
+    path: Assets/Scenes/Calculator.unity
+    guid: 8b1a2a39a6e06b64781ee497889fe08c
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
